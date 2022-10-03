@@ -2,7 +2,7 @@ from datetime import *
 import random
 
 stations = ["Dordrecht", "Delft", "Deventer", "Enschede", "Gouda", "Groningen", "Den Haag"]
-
+#g
 def get_information():
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
